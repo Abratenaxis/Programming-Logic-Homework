@@ -6,7 +6,7 @@
 //06-28-2017
 //This application is used like a shopping cart
 //to calculate subtotal from a read file, tax, and total due then
-//to calcualte different tax ammounts according to category then
+//to calculate different tax amounts according to category then
 //ot calculate change due and write a receipt to a file
 
 #include <fstream>
@@ -35,10 +35,10 @@ const int kSetWidthRight = 5;// Setting width five spaces
 int main()
 {
 	ifstream shoppingCart;//Declaring input stream
-	shoppingCart.open("ItemList.txt");//Open Itemlist.txt
+	shoppingCart.open("../ItemList.txt");//Open Itemlist.txt
 
 	ofstream receiptPrintOut;//Declaring output stream
-	receiptPrintOut.open("Receipt.txt");//Writing to Receipt.txt
+	receiptPrintOut.open("../Receipt.txt");//Writing to Receipt.txt
 	receiptPrintOut << fixed << showpoint << setprecision(kStandardPrecision);
 	receiptPrintOut << "Julio's Store" << endl;
 	receiptPrintOut << kNewLine << endl;
@@ -58,7 +58,7 @@ int main()
 		double itemPrice = 0.0;//Item  price declaration
 		shoppingCart >> itemPrice;//Item price extraction
 
-		char itemCategory;//Item  category initailized
+		char itemCategory;//Item  category initialized
 		shoppingCart >> itemCategory;//Item category extraction
 
 		shoppingCart.ignore(kLineLength, kNewLine);//input stream to ignore 512th character and new line character
@@ -113,7 +113,7 @@ int main()
 
 		if (debitTendered < totalDue || cin.fail())
 		{
-			cout << "ERROR! You've entered an invalid ammount! Ammount must be more than or equal to $" << totalDue << endl;//Invalid ammount prompt
+			cout << "ERROR! You've entered an invalid amount! Amount must be more than or equal to $" << totalDue << endl;//Invalid amount prompt
 			cin.clear();// invalid input is cleared from input stream
 			cin.ignore(kLineLength, kNewLine);
 			isValid = false;

@@ -27,22 +27,22 @@ int main()
     long long creditCardNumber = GetCreditCardNumber("Enter a Credit Card number > ");
     cout << creditCardNumber << endl;
 
-    // int cardSize = GetSize(183756490859876);
-    // cout << cardSize << endl;
-    //
-    // int prefix = GetPrefix(123456789123, 2);
-    // cout << prefix << endl;
-    //
-    // string cardType = GetCardType(9123456789123);
-    // cout << cardType << endl;
-    //
-    // int targetDigit = GetDigit(18);
-    // cout << targetDigit << endl;
-    //
-    //  int cardSumEven = SumOfDoubleEvenPlace(4388576018402626);
-    //  cout << cardSumEven << endl;
-    //
-    // int cardSumOdd = SumOfOddPlace(4388576018402626);
-    // cout << cardSumOdd << endl;
+    int cardSize = GetSize(183756490859876);
+    cout << cardSize << endl;
+
+    int prefix = GetPrefix(123456789123, 2);
+    cout << prefix << endl;
+
+    string cardType = GetCardType(9123456789123);
+    cout << cardType << endl;
+
+    int targetDigit = GetDigit(18);
+    cout << targetDigit << endl;
+
+     int cardSumEven = SumOfDoubleEvenPlace(4388576018402626);
+     cout << cardSumEven << endl;
+
+    int cardSumOdd = SumOfOddPlace(4388576018402626);
+    cout << cardSumOdd << endl;
 }
 

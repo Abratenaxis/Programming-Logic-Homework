@@ -1,0 +1,108 @@
+Julio's Store
+
+
+keyboard                             $22.62 - N
+blouse                               $18.17 - N
+plastic fork                         $20.16 - X
+credit card                          $14.61 - F
+perfume                              $ 2.76 - N
+playing card                         $ 2.08 - N
+table                                $ 5.56 - N
+toothbrush                           $16.71 - F
+thermometer                          $12.38 - N
+canvas                               $22.43 - X
+bottle                               $ 7.29 - X
+cup                                  $14.27 - X
+nail file                            $23.07 - X
+slipper                              $ 5.66 - N
+spring                               $ 7.57 - F
+apple                                $ 4.28 - X
+food                                 $ 4.66 - F
+chapter book                         $16.89 - F
+rusty nail                           $20.25 - F
+rubber duck                          $23.96 - F
+sharpie                              $20.60 - X
+bottle cap                           $13.00 - X
+cookie jar                           $ 7.54 - X
+needle                               $24.96 - X
+sailboat                             $23.47 - F
+nail clippers                        $11.72 - X
+puddle                               $17.89 - N
+white out                            $13.95 - F
+bow                                  $15.51 - F
+deodorant                            $21.45 - N
+candle                               $14.72 - F
+button                               $ 7.13 - X
+teddies                              $ 4.75 - F
+bananas                              $15.50 - N
+ring                                 $23.14 - N
+thread                               $14.42 - X
+rug                                  $ 8.02 - F
+beef                                 $10.60 - X
+camera                               $ 5.23 - F
+CD                                   $17.86 - F
+door                                 $ 7.61 - N
+tweezers                             $ 2.39 - F
+flag                                 $14.26 - F
+house                                $16.84 - X
+stop sign                            $ 3.89 - X
+book                                 $ 2.70 - N
+ipod                                 $18.05 - N
+soda can                             $14.36 - F
+cat                                  $20.93 - F
+coasters                             $ 2.25 - X
+shoe lace                            $22.54 - N
+controller                           $19.90 - X
+balloon                              $16.15 - N
+wallet                               $ 3.06 - N
+toilet                               $ 2.66 - F
+clay pot                             $22.15 - N
+scotch tape                          $ 2.33 - X
+soy sauce packet                     $ 2.11 - X
+tire swing                           $19.40 - F
+toothpaste                           $21.49 - F
+newspaper                            $ 2.15 - N
+seat belt                            $13.46 - F
+shirt                                $19.60 - N
+bowl                                 $ 6.70 - X
+magnet                               $15.14 - F
+charger                              $15.52 - N
+sticky note                          $ 7.79 - N
+lamp shade                           $ 9.77 - N
+hair tie                             $16.88 - F
+blanket                              $ 9.91 - X
+towel                                $11.76 - N
+fridge                               $21.05 - N
+fake flowers                         $16.56 - F
+greeting card                        $15.56 - F
+knife                                $21.24 - N
+boom box                             $ 7.40 - F
+floor                                $21.74 - X
+pillow                               $15.70 - X
+sand paper                           $23.93 - F
+zipper                               $12.45 - F
+pool stick                           $21.06 - X
+tomato                               $20.03 - F
+fork                                 $ 8.91 - F
+clamp                                $23.35 - N
+paint brush                          $21.84 - N
+speakers                             $ 5.53 - F
+glass                                $ 9.77 - F
+window                               $20.01 - X
+thermostat                           $13.17 - X
+truck                                $15.74 - F
+paper                                $ 1.54 - F
+watch                                $ 4.24 - F
+couch                                $16.46 - F
+bag                                  $10.56 - X
+shampoo                              $19.98 - F
+air freshener                        $24.83 - X
+leg warmers                          $13.34 - X
+rubber band                          $19.17 - X
+pencil                               $14.22 - X
+street lights                        $19.45 - F
+Subtotal                             $1379.42
+N Tax @ 8.25%                        $32.47
+X Tax @ 12.50%                       $54.90
+F Tax @ 0.00%                        $ 0.00
+Total                                $1466.79

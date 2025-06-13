@@ -28,7 +28,7 @@ const int kSetWidthRight = 5;
 int main()
 {
 	ifstream shoppingCart;
-	shoppingCart.open("Items.txt");
+	shoppingCart.open("../Items.txt");
 
 	cout << "Opening File to read items..." << endl;
 	string itemOneName = " ";//First item declared as " " as soon as it is needed
@@ -65,7 +65,7 @@ int main()
 	shoppingCart.close();
 	//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	ofstream receiptPrintOut;
-	receiptPrintOut.open("Receipt.txt");
+	receiptPrintOut.open("../Receipt.txt");
 	receiptPrintOut << fixed << showpoint << setprecision(kStandardPrecision);
 
 	receiptPrintOut << "Julio's Store" << endl;

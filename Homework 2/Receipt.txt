@@ -1,0 +1,9 @@
+Julio's Store
+
+
+Box of Nails                         $15.99 - N
+Milk                                 $ 3.99 - F
+Tylenol                              $ 9.99 - X
+Subtotal                             $29.97
+Tax @ 9%                             $ 2.70
+Total                                $32.67
